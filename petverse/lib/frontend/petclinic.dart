@@ -24,7 +24,7 @@ class _PetClinicScreenState extends State<PetClinicScreen> {
   bool isMapVisible = true;
   String selectedSortOption = "rating"; // Default sorting by rating
 
-  String apiKey = "AIzaSyBlfqs5K9HEe9c1Eu5bjPXXjr8Hz2mbTZE";
+  String apiKey = "";
   String locationTitle = "Select Your Location";
   double selectedRating = 0.0;
 
